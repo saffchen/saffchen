@@ -20,7 +20,7 @@ I am a Java Developer :coffee:.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saffchen&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📱:Connect with me:
+### 📱Connect with me:
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" alt="linkedin" width="40" height="40" https://www.linkedin.com/in/denis-savchenko-11b25224a/
 </div>  
