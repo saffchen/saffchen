@@ -21,11 +21,9 @@ I am a Java Developer :coffee:.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saffchen&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📱Connect with me:
-<div>
-<a href="(https://www.linkedin.com/in/denis-savchenko-11b25224a/)" target="_blank">
+<a href="https://www.linkedin.com/in/denis-savchenko-11b25224a/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40">
 </a>
-</div>  
 <!--
 **Saffchen/Saffchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
