@@ -20,6 +20,10 @@ I am a Java Developer :coffee:.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saffchen&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### 📱:Connect with me:
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" https://www.linkedin.com/in/denis-savchenko-11b25224a/
+</div>  
 <!--
 **Saffchen/Saffchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
