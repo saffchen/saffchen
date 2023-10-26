@@ -22,7 +22,9 @@ I am a Java Developer :coffee:.
 
 ### 📱Connect with me:
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" alt="linkedin" width="40" height="40" https://www.linkedin.com/in/denis-savchenko-11b25224a/
+<a href="(https://www.linkedin.com/in/denis-savchenko-11b25224a/)" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40">
+</a>
 </div>  
 <!--
 **Saffchen/Saffchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
